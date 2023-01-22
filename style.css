@@ -1,0 +1,62 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+#top{
+    position: absolute;
+    width: 1000px;
+    
+    height: 25px;
+    left: 77px;
+    top: 40px;
+    font-family: 'Inconsolata';
+    letter-spacing: -0.02em;
+    font-weight: 200;
+    font-size: 24px;
+    line-height: 25px;
+    text-transform: uppercase;
+}
+
+/* Main Content*/
+
+#box-2{
+  font-family: 'Space Mono', monospace;
+  position: absolute;
+  left: 790px;
+  top: 63px;
+  
+}
+#news{
+    font-family: 'Space Mono', monospace;
+    font-style: normal;
+    width: 586px;
+    height: 190px;
+    font-size: 64px;
+    right: 50px;
+    top:265px;
+}
+#text{
+    width: 302px;
+    height: 100px;
+    left: 736px;
+    top: 491px;
+    letter-spacing: 0.035em;
+
+}
+
+#photo{
+    width: 500px;
+    height: 500px;
+    margin: 150px 120px;
+
+}
+#homePage {
+    position: absolute;
+    width: 216px;
+    height: 68px;
+    left: 790px;
+    top: 500px;
+    color: white;
+    background-color: black;
+    text-transform: uppercase;
+}
